@@ -1,0 +1,17 @@
+Running script :
+
+python train.py --dataroot /Datasets --name cyclegan_imgandseg_CTSeg_4425_1_100 --batchSize 10 --model cycle_gan--pool_size 50 --no_dropout --yh_run_model Test --dataset_mode yh --input_nc 1--gpu_ids 0 --seg_norm CrossEntropy --output_nc 1 --output_nc_seg 2--checkpoints_dir Checkpoints/ --test_seg_output_dir Output/CTBoneSeg4425_1_100_CasePhantom --display_id 0
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+The data usually save under the folder : /Datasets_CTSeg/name of test case 
+
+ex : /Datasets_CTSegTest2_case1 or until /Datasets_CTSeg/Test2_case10
+
+
+
+the models save and access under the folder : /Checkpoints/name of the model
+
+ex: /Checkpoints/cyclegan_imgandseg_CTSeg_4425_1_100
