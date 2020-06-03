@@ -1,0 +1,10 @@
+/home/mvania/Seg-Net/Datasets/Label/IMG0051.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0052.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0053.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0054.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0055.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0056.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0057.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0058.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0059.png
+/home/mvania/Seg-Net/Datasets/Label/IMG0060.png

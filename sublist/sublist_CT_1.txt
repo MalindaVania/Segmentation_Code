@@ -1,0 +1,155 @@
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0001.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0002.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0003.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0004.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0005.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0006.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0007.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0008.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0009.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0010.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0011.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0012.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0013.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0014.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0015.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0016.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0017.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0018.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0019.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0020.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0021.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0022.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0023.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0024.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0025.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0026.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0027.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0028.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0029.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0030.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0031.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0032.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0033.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0034.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0035.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0036.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0037.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0038.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0039.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (1).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (2).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (3).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (4).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (5).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (6).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (7).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (8).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (9).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (10).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (11).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (12).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (13).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (14).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (15).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (16).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (17).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (18).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (19).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (20).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (21).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (22).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (23).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (24).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (25).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case 1 (26).png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0066.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0067.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0068.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0069.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0070.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0071.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0072.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0073.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0074.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0075.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0076.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/IMG0077.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0001.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0002.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0003.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0004.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0005.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0006.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0007.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0008.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0009.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0010.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0011.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0012.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0013.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0014.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0015.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0016.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0017.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0018.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0019.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0020.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0021.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0022.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0023.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0024.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0025.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0026.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0027.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0028.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0029.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0030.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0031.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0032.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0033.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0034.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0035.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0036.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0037.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0038.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0039.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0040.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0041.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0042.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0043.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0044.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0045.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0046.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0047.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0048.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0049.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0050.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0051.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0052.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0053.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0054.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0055.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0056.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0057.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0058.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0059.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0060.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0061.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0062.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0063.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0064.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0065.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0066.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0067.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0068.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0069.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0070.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0071.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0072.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0073.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0074.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0075.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0076.png
+/home/mvania/Seg-Net/Dataset_CTSeg/Test_2_case1/Case1_IMG0077.png
+

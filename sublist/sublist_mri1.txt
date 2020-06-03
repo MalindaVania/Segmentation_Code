@@ -1,0 +1,10 @@
+/home/mvania/Seg-Net/Datasets/MRI/IMG0051.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0052.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0053.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0054.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0055.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0056.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0057.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0058.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0059.png
+/home/mvania/Seg-Net/Datasets/MRI/IMG0060.png
